@@ -1,5 +1,5 @@
 # MarblesAreDelicious
 
-Developed with Unreal Engine 4
+Developed with Unreal Engine 4, first game made with UE4
 
-[Gameplay video](https://google.com/)
+[Gameplay video (YouTube)](https://youtu.be/p4_5-yt9LKI)
